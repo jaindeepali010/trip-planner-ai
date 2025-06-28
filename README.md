@@ -31,9 +31,7 @@ echo "OPENAI_API_KEY=your-openai-api-key-here" > .env
 # 5. Run the app
 streamlit run trip_planner_app.py
 
----
-
-## 📁  Project Structure
+📁 Project Structure
 
 trip_planner/
 ├── tools/                  # Custom tools (browser, search, calculator)
